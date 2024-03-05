@@ -3824,23 +3824,23 @@
     (uuid e80706ab-3bf2-46c6-9d45-d11b0c3a007b)
   )
 
-  (label "V_RF" (at 39.37 105.41 0)
+  (label "V_RF" (at 39.37 105.41 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 0350ad98-658b-4e07-aa63-a1a745fac0fe)
   )
-  (label "3V3_EN" (at 123.19 144.78 0)
+  (label "3V3_EN" (at 123.19 144.78 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 13d6bc8c-0076-47a6-bc95-f0b494b026c9)
   )
-  (label "REGN" (at 222.25 146.05 0)
+  (label "REGN" (at 222.25 146.05 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 1b924bda-d88a-48fd-8aae-4a388ec384f7)
   )
-  (label "V_RF" (at 39.37 133.35 0)
+  (label "V_RF" (at 39.37 133.35 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 23a32a7d-7e79-4794-9cd7-a876a63ffcd1)
   )
-  (label "VCHRG_IN" (at 36.83 46.99 0)
+  (label "VCHRG_IN" (at 36.83 46.99 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid f299ffe7-abfc-4717-be89-8f608afdeed8)
   )
@@ -4182,9 +4182,6 @@
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "#GND013") (unit 1)
         )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "#GND?") (unit 1)
-        )
       )
     )
   )
@@ -4216,9 +4213,6 @@
       (project "mainboard"
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "C21") (unit 1)
-        )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "C?") (unit 1)
         )
       )
     )
@@ -4267,9 +4261,6 @@
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "D2") (unit 1)
         )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "D?") (unit 1)
-        )
       )
     )
   )
@@ -4301,9 +4292,6 @@
       (project "mainboard"
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "R14") (unit 1)
-        )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "R?") (unit 1)
         )
       )
     )
@@ -4337,9 +4325,6 @@
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "C22") (unit 1)
         )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "C?") (unit 1)
-        )
       )
     )
   )
@@ -4365,9 +4350,6 @@
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "#GND019") (unit 1)
         )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "#GND?") (unit 1)
-        )
       )
     )
   )
@@ -4392,9 +4374,6 @@
       (project "mainboard"
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "#GND021") (unit 1)
-        )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "#GND?") (unit 1)
         )
       )
     )
@@ -4428,9 +4407,6 @@
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "R8") (unit 1)
         )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "R?") (unit 1)
-        )
       )
     )
   )
@@ -4455,9 +4431,6 @@
       (project "mainboard"
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "#SUPPLY06") (unit 1)
-        )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "#SUPPLY?") (unit 1)
         )
       )
     )
@@ -4504,9 +4477,6 @@
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "Q1") (unit 1)
         )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "Q?") (unit 1)
-        )
       )
     )
   )
@@ -4538,9 +4508,6 @@
       (project "mainboard"
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "C27") (unit 1)
-        )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "C?") (unit 1)
         )
       )
     )
@@ -4574,9 +4541,6 @@
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "C17") (unit 1)
         )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "C?") (unit 1)
-        )
       )
     )
   )
@@ -4601,9 +4565,6 @@
       (project "mainboard"
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "#P+03") (unit 1)
-        )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "#P+?") (unit 1)
         )
       )
     )
@@ -4637,9 +4598,6 @@
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "C28") (unit 1)
         )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "C?") (unit 1)
-        )
       )
     )
   )
@@ -4664,9 +4622,6 @@
       (project "mainboard"
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "#GND014") (unit 1)
-        )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "#GND?") (unit 1)
         )
       )
     )
@@ -4703,9 +4658,6 @@
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "R18") (unit 1)
         )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "R?") (unit 1)
-        )
       )
     )
   )
@@ -4737,9 +4689,6 @@
       (project "mainboard"
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "R15") (unit 1)
-        )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "R?") (unit 1)
         )
       )
     )
@@ -4790,9 +4739,6 @@
       (project "mainboard"
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "Q22") (unit 1)
-        )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5a72"
-          (reference "U?") (unit 1)
         )
       )
     )
@@ -4916,7 +4862,7 @@
     (property "Proto" "LTC4121EUD" (at 110.49 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "" (at 110.49 49.53 0)
+    (property "LCSC" "C687336" (at 110.49 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "P$1" (uuid 59be0993-f6ca-42cb-969d-f21466763968))
@@ -5169,9 +5115,6 @@
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "R31") (unit 1)
         )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5a72"
-          (reference "R?") (unit 1)
-        )
       )
     )
   )
@@ -5339,7 +5282,7 @@
     (property "Proto" "ADM1176-1ARMZ-R7" (at 127 81.28 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "" (at 127 81.28 0)
+    (property "LCSC" "NotAvailable" (at 127 81.28 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 796bea43-4c80-4df6-a60c-f4c10a4d650a))
@@ -5453,9 +5396,6 @@
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "R34") (unit 1)
         )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5a72"
-          (reference "R?") (unit 1)
-        )
       )
     )
   )
@@ -5488,9 +5428,6 @@
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "R35") (unit 1)
         )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5a72"
-          (reference "R?") (unit 1)
-        )
       )
     )
   )
@@ -5515,9 +5452,6 @@
       (project "mainboard"
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "#GND0108") (unit 1)
-        )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "#GND?") (unit 1)
         )
       )
     )
@@ -5550,9 +5484,6 @@
       (project "mainboard"
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "R26") (unit 1)
-        )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5a72"
-          (reference "R?") (unit 1)
         )
       )
     )
@@ -5620,7 +5551,7 @@
     (property "Proto" "BQ25883RGER" (at 237.49 120.65 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "LCSC" "" (at 210.82 110.49 0)
+    (property "LCSC" "NotAvailable" (at 210.82 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 2953bae4-092a-4397-98b7-5be83e9dae5d))
@@ -5678,9 +5609,6 @@
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "#GND0109") (unit 1)
         )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "#GND?") (unit 1)
-        )
       )
     )
   )
@@ -5713,9 +5641,6 @@
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "R36") (unit 1)
         )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5a72"
-          (reference "R?") (unit 1)
-        )
       )
     )
   )
@@ -5747,9 +5672,6 @@
       (project "mainboard"
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "R46") (unit 1)
-        )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5a72"
-          (reference "R?") (unit 1)
         )
       )
     )
@@ -6012,9 +5934,6 @@
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "#GND027") (unit 1)
         )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "#GND?") (unit 1)
-        )
       )
     )
   )
@@ -6046,9 +5965,6 @@
       (project "mainboard"
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "R52") (unit 1)
-        )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5a72"
-          (reference "R?") (unit 1)
         )
       )
     )
@@ -6082,9 +5998,6 @@
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "R49") (unit 1)
         )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5a72"
-          (reference "R?") (unit 1)
-        )
       )
     )
   )
@@ -6107,7 +6020,7 @@
     (property "Description" "200K 0603" (at 152.8572 129.6416 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "" (at 151.13 133.35 0)
+    (property "LCSC" "C105580" (at 151.13 133.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "2" (uuid 8499eed5-da15-4e4d-a0f1-273db3ee40e2))
@@ -6116,9 +6029,6 @@
       (project "mainboard"
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "R47") (unit 1)
-        )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5a72"
-          (reference "R?") (unit 1)
         )
       )
     )
@@ -6152,9 +6062,6 @@
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "R30") (unit 1)
         )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5a72"
-          (reference "R?") (unit 1)
-        )
       )
     )
   )
@@ -6180,9 +6087,6 @@
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "#GND016") (unit 1)
         )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "#GND?") (unit 1)
-        )
       )
     )
   )
@@ -6207,9 +6111,6 @@
       (project "mainboard"
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "#GND028") (unit 1)
-        )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "#GND?") (unit 1)
         )
       )
     )
@@ -6243,9 +6144,6 @@
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "R29") (unit 1)
         )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5a72"
-          (reference "R?") (unit 1)
-        )
       )
     )
   )
@@ -6277,9 +6175,6 @@
       (project "mainboard"
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "C19") (unit 1)
-        )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "C?") (unit 1)
         )
       )
     )
@@ -6402,9 +6297,6 @@
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "#GND07") (unit 1)
         )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "#GND?") (unit 1)
-        )
       )
     )
   )
@@ -6427,7 +6319,7 @@
     (property "Description" "20K 0603" (at 152.4 148.463 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "" (at 149.86 153.67 0)
+    (property "LCSC" "C2076573" (at 149.86 153.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 83d06250-9df9-4e70-a465-d46de31504cd))
@@ -6436,9 +6328,6 @@
       (project "mainboard"
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "R110") (unit 1)
-        )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5a72"
-          (reference "R?") (unit 1)
         )
       )
     )
@@ -6474,7 +6363,7 @@
     (property "Proto" "TPS7A4501DCQT" (at 55.88 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "" (at 55.88 97.79 0)
+    (property "LCSC" "NotAvailable" (at 55.88 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid f85da2a9-470e-4e29-afa5-6f2dfd480fde))
@@ -6512,9 +6401,6 @@
       (project "mainboard"
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "#GND0104") (unit 1)
-        )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "#GND?") (unit 1)
         )
       )
     )
@@ -6580,9 +6466,6 @@
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "R55") (unit 1)
         )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5a72"
-          (reference "R?") (unit 1)
-        )
       )
     )
   )
@@ -6615,9 +6498,6 @@
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "R59") (unit 1)
         )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5a72"
-          (reference "R?") (unit 1)
-        )
       )
     )
   )
@@ -6643,9 +6523,6 @@
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "#GND0117") (unit 1)
         )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "#GND?") (unit 1)
-        )
       )
     )
   )
@@ -6653,7 +6530,7 @@
   (symbol (lib_id "mainboard:3.3V") (at 26.67 115.57 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00006090f0f5)
-    (property "Reference" "#SUPPLY?" (at 26.67 115.57 0)
+    (property "Reference" "#SUPPLY0110" (at 26.67 115.57 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "3.3V" (at 22.3774 115.57 90)
@@ -6668,12 +6545,6 @@
     (pin "1" (uuid 0fc9d001-8568-4d97-8a2c-0a1f546006af))
     (instances
       (project "mainboard"
-        (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec6281"
-          (reference "#SUPPLY?") (unit 1)
-        )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "#SUPPLY?") (unit 1)
-        )
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "#SUPPLY0110") (unit 1)
         )
@@ -6756,7 +6627,7 @@
   (symbol (lib_id "mainboard:3.3V") (at 26.67 92.71 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060bd8824)
-    (property "Reference" "#SUPPLY?" (at 26.67 92.71 0)
+    (property "Reference" "#SUPPLY010" (at 26.67 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "3.3V" (at 22.3774 92.71 90)
@@ -6771,12 +6642,6 @@
     (pin "1" (uuid 43c5e14e-cf46-446b-ad7c-064558c1404e))
     (instances
       (project "mainboard"
-        (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec6281"
-          (reference "#SUPPLY?") (unit 1)
-        )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "#SUPPLY?") (unit 1)
-        )
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "#SUPPLY010") (unit 1)
         )
@@ -6811,7 +6676,7 @@
     (property "Proto" "KF50BD-TR" (at 58.42 133.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "" (at 58.42 133.35 0)
+    (property "LCSC" "NotAvailable" (at 58.42 133.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 5cc577b9-52ef-4b09-9fcc-949d46612cc1))
@@ -6852,9 +6717,6 @@
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "#GND032") (unit 1)
         )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "#GND?") (unit 1)
-        )
       )
     )
   )
@@ -6879,9 +6741,6 @@
       (project "mainboard"
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "#GND030") (unit 1)
-        )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "#GND?") (unit 1)
         )
       )
     )
@@ -6947,9 +6806,6 @@
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "R11") (unit 1)
         )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "R?") (unit 1)
-        )
       )
     )
   )
@@ -6981,9 +6837,6 @@
       (project "mainboard"
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "R16") (unit 1)
-        )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "R?") (unit 1)
         )
       )
     )
@@ -7017,9 +6870,6 @@
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "R13") (unit 1)
         )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "R?") (unit 1)
-        )
       )
     )
   )
@@ -7045,9 +6895,6 @@
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "#GND012") (unit 1)
         )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "#GND?") (unit 1)
-        )
       )
     )
   )
@@ -7072,9 +6919,6 @@
       (project "mainboard"
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "#GND015") (unit 1)
-        )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "#GND?") (unit 1)
         )
       )
     )
@@ -7108,9 +6952,6 @@
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "R23") (unit 1)
         )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "R?") (unit 1)
-        )
       )
     )
   )
@@ -7142,9 +6983,6 @@
       (project "mainboard"
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "R12") (unit 1)
-        )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "R?") (unit 1)
         )
       )
     )
@@ -7178,9 +7016,6 @@
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "R20") (unit 1)
         )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "R?") (unit 1)
-        )
       )
     )
   )
@@ -7212,9 +7047,6 @@
       (project "mainboard"
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "R17") (unit 1)
-        )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "R?") (unit 1)
         )
       )
     )
@@ -7248,9 +7080,6 @@
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "R19") (unit 1)
         )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "R?") (unit 1)
-        )
       )
     )
   )
@@ -7282,9 +7111,6 @@
       (project "mainboard"
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "C26") (unit 1)
-        )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "C?") (unit 1)
         )
       )
     )
@@ -7318,9 +7144,6 @@
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "R22") (unit 1)
         )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "R?") (unit 1)
-        )
       )
     )
   )
@@ -7345,9 +7168,6 @@
       (project "mainboard"
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "#GND017") (unit 1)
-        )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "#GND?") (unit 1)
         )
       )
     )
@@ -7381,9 +7201,6 @@
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "R21") (unit 1)
         )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "R?") (unit 1)
-        )
       )
     )
   )
@@ -7415,9 +7232,6 @@
       (project "mainboard"
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "C25") (unit 1)
-        )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "C?") (unit 1)
         )
       )
     )
@@ -7454,9 +7268,6 @@
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "R9") (unit 1)
         )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "R?") (unit 1)
-        )
       )
     )
   )
@@ -7482,9 +7293,6 @@
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "#GND018") (unit 1)
         )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "#GND?") (unit 1)
-        )
       )
     )
   )
@@ -7509,9 +7317,6 @@
       (project "mainboard"
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "#GND011") (unit 1)
-        )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "#GND?") (unit 1)
         )
       )
     )
@@ -7545,9 +7350,6 @@
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "C18") (unit 1)
         )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "C?") (unit 1)
-        )
       )
     )
   )
@@ -7580,9 +7382,6 @@
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "R10") (unit 1)
         )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "R?") (unit 1)
-        )
       )
     )
   )
@@ -7607,9 +7406,6 @@
       (project "mainboard"
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "#GND020") (unit 1)
-        )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "#GND?") (unit 1)
         )
       )
     )
@@ -7642,9 +7438,6 @@
       (project "mainboard"
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "C20") (unit 1)
-        )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "C?") (unit 1)
         )
       )
     )
@@ -7680,7 +7473,7 @@
     (property "Proto" "TPS54226PWPR" (at 125.73 181.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "" (at 125.73 181.61 0)
+    (property "LCSC" "NotAvailable" (at 125.73 181.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "6" (uuid fd87a1c5-0d57-46b9-a02a-a9f62a64ec3a))
@@ -7702,9 +7495,6 @@
       (project "mainboard"
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "U5") (unit 1)
-        )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "U?") (unit 1)
         )
       )
     )
@@ -7737,9 +7527,6 @@
       (project "mainboard"
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
           (reference "C23") (unit 1)
-        )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "C?") (unit 1)
         )
       )
     )

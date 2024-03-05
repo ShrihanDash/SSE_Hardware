@@ -75,15 +75,15 @@
           (stroke (width 0.254) (type solid))
           (fill (type background))
         )
-        (arc (start -8.89 -3.81) (mid -6.985 -5.715) (end -5.08 -3.81)
+        (arc (start -8.89 -3.81) (mid -6.985 -5.7067) (end -5.08 -3.81)
           (stroke (width 0.508) (type solid))
           (fill (type none))
         )
-        (arc (start -7.62 -3.81) (mid -6.985 -4.445) (end -6.35 -3.81)
+        (arc (start -7.62 -3.81) (mid -6.985 -4.4423) (end -6.35 -3.81)
           (stroke (width 0.254) (type solid))
           (fill (type none))
         )
-        (arc (start -7.62 -3.81) (mid -6.985 -4.445) (end -6.35 -3.81)
+        (arc (start -7.62 -3.81) (mid -6.985 -4.4423) (end -6.35 -3.81)
           (stroke (width 0.254) (type solid))
           (fill (type outline))
         )
@@ -91,15 +91,15 @@
           (stroke (width 0.254) (type solid))
           (fill (type outline))
         )
-        (arc (start -6.35 3.81) (mid -6.985 4.445) (end -7.62 3.81)
+        (arc (start -6.35 3.81) (mid -6.985 4.4423) (end -7.62 3.81)
           (stroke (width 0.254) (type solid))
           (fill (type none))
         )
-        (arc (start -6.35 3.81) (mid -6.985 4.445) (end -7.62 3.81)
+        (arc (start -6.35 3.81) (mid -6.985 4.4423) (end -7.62 3.81)
           (stroke (width 0.254) (type solid))
           (fill (type outline))
         )
-        (arc (start -5.08 3.81) (mid -6.985 5.715) (end -8.89 3.81)
+        (arc (start -5.08 3.81) (mid -6.985 5.7067) (end -8.89 3.81)
           (stroke (width 0.508) (type solid))
           (fill (type none))
         )
@@ -1675,9 +1675,6 @@
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec60eb"
           (reference "#GND022") (unit 1)
         )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "#GND?") (unit 1)
-        )
       )
     )
   )
@@ -1721,9 +1718,6 @@
       (project "mainboard"
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec60eb"
           (reference "J3") (unit 1)
-        )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "JP?") (unit 1)
         )
       )
     )
@@ -1782,9 +1776,6 @@
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec60eb"
           (reference "J1") (unit 1)
         )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "J?") (unit 1)
-        )
       )
     )
   )
@@ -1819,7 +1810,7 @@
     (property "Proto" "W25Q80DVSNIG" (at 41.91 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "" (at 41.91 119.38 0)
+    (property "LCSC" "NotAvailable" (at 41.91 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid ac89b23c-0106-4090-ad05-2c9e9389c890))
@@ -1835,9 +1826,6 @@
       (project "mainboard"
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec60eb"
           (reference "U8") (unit 1)
-        )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "U?") (unit 1)
         )
       )
     )
@@ -1883,9 +1871,6 @@
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec60eb"
           (reference "J4") (unit 1)
         )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "JP?") (unit 1)
-        )
       )
     )
   )
@@ -1918,9 +1903,6 @@
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec60eb"
           (reference "C30") (unit 1)
         )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "C?") (unit 1)
-        )
       )
     )
   )
@@ -1946,9 +1928,6 @@
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec60eb"
           (reference "#GND065") (unit 1)
         )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "#GND?") (unit 1)
-        )
       )
     )
   )
@@ -1973,9 +1952,6 @@
       (project "mainboard"
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec60eb"
           (reference "#GND023") (unit 1)
-        )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "#GND?") (unit 1)
         )
       )
     )
@@ -2040,9 +2016,6 @@
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec60eb"
           (reference "#SUPPLY0102") (unit 1)
         )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "#SUPPLY?") (unit 1)
-        )
       )
     )
   )
@@ -2099,9 +2072,6 @@
     (pin "S1" (uuid 98ad8fec-ccd6-41bb-adc3-23c0cbdcb896))
     (instances
       (project "mainboard"
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "J13") (unit 1)
-        )
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec60eb"
           (reference "J13") (unit 1)
         )
@@ -2137,9 +2107,6 @@
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec60eb"
           (reference "C24") (unit 1)
         )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
-          (reference "C?") (unit 1)
-        )
       )
     )
   )
@@ -2172,9 +2139,6 @@
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec60eb"
           (reference "C31") (unit 1)
         )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
-          (reference "C?") (unit 1)
-        )
       )
     )
   )
@@ -2182,7 +2146,7 @@
   (symbol (lib_id "Device:R_US") (at 64.77 34.29 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005de54ed2)
-    (property "Reference" "R?" (at 62.23 31.75 0)
+    (property "Reference" "R51" (at 62.23 31.75 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "10k" (at 68.58 35.56 0)
@@ -2204,12 +2168,6 @@
     (pin "2" (uuid 48be7e3b-7004-4463-b40f-5733702eacc7))
     (instances
       (project "mainboard"
-        (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
-          (reference "R?") (unit 1)
-        )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5a72"
-          (reference "R?") (unit 1)
-        )
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec60eb"
           (reference "R51") (unit 1)
         )
@@ -2257,9 +2215,6 @@
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec60eb"
           (reference "J17") (unit 1)
         )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "JP?") (unit 1)
-        )
       )
     )
   )
@@ -2267,7 +2222,7 @@
   (symbol (lib_id "Device:R_US") (at 35.56 115.57 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005e0906d2)
-    (property "Reference" "R?" (at 33.02 113.03 0)
+    (property "Reference" "R50" (at 33.02 113.03 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "10k" (at 39.37 116.84 0)
@@ -2289,12 +2244,6 @@
     (pin "2" (uuid b7e8e06b-5782-446d-a81b-974035970420))
     (instances
       (project "mainboard"
-        (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
-          (reference "R?") (unit 1)
-        )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5a72"
-          (reference "R?") (unit 1)
-        )
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec60eb"
           (reference "R50") (unit 1)
         )
@@ -2323,9 +2272,6 @@
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec60eb"
           (reference "#SUPPLY0116") (unit 1)
         )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "#SUPPLY?") (unit 1)
-        )
       )
     )
   )
@@ -2333,7 +2279,7 @@
   (symbol (lib_id "Device:R_US") (at 157.48 59.69 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005e31adf3)
-    (property "Reference" "R?" (at 154.94 57.15 0)
+    (property "Reference" "R40" (at 154.94 57.15 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "5.1k" (at 161.29 60.96 0)
@@ -2348,19 +2294,13 @@
     (property "Description" "5.1k 0603" (at 154.94 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "" (at 157.48 59.69 0)
+    (property "LCSC" "C185333" (at 157.48 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 85b3733b-0bc3-4130-bf67-7165f3d4cb73))
     (pin "2" (uuid 29fd3100-d0c6-47b7-adf1-58ab8819f431))
     (instances
       (project "mainboard"
-        (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
-          (reference "R?") (unit 1)
-        )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5a72"
-          (reference "R?") (unit 1)
-        )
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec60eb"
           (reference "R40") (unit 1)
         )
@@ -2371,7 +2311,7 @@
   (symbol (lib_id "Device:R_US") (at 154.94 62.23 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005e31e651)
-    (property "Reference" "R?" (at 152.4 59.69 0)
+    (property "Reference" "R39" (at 152.4 59.69 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "5.1k" (at 151.13 62.23 0)
@@ -2386,19 +2326,13 @@
     (property "Description" "5.1k 0603" (at 152.4 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "" (at 154.94 62.23 0)
+    (property "LCSC" "C185333" (at 154.94 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 7605c5f7-31b9-4a39-8b3c-a2be98a0e413))
     (pin "2" (uuid 04ac71ba-5975-4a5b-9d79-7e51c25da377))
     (instances
       (project "mainboard"
-        (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
-          (reference "R?") (unit 1)
-        )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5a72"
-          (reference "R?") (unit 1)
-        )
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec60eb"
           (reference "R39") (unit 1)
         )
@@ -2426,9 +2360,6 @@
       (project "mainboard"
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec60eb"
           (reference "#PWR0107") (unit 1)
-        )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
-          (reference "#PWR?") (unit 1)
         )
       )
     )
@@ -2498,9 +2429,6 @@
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec60eb"
           (reference "#PWR0108") (unit 1)
         )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
-          (reference "#PWR?") (unit 1)
-        )
       )
     )
   )
@@ -2533,9 +2461,6 @@
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec60eb"
           (reference "C29") (unit 1)
         )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
-          (reference "C?") (unit 1)
-        )
       )
     )
   )
@@ -2560,9 +2485,6 @@
       (project "mainboard"
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec60eb"
           (reference "#PWR0101") (unit 1)
-        )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
-          (reference "#PWR?") (unit 1)
         )
       )
     )
@@ -2589,9 +2511,6 @@
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec60eb"
           (reference "#PWR0109") (unit 1)
         )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec5dde"
-          (reference "#PWR?") (unit 1)
-        )
       )
     )
   )
@@ -2616,9 +2535,6 @@
       (project "mainboard"
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec60eb"
           (reference "#GND025") (unit 1)
-        )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "#GND?") (unit 1)
         )
       )
     )
@@ -2664,9 +2580,6 @@
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec60eb"
           (reference "J16") (unit 1)
         )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "JP?") (unit 1)
-        )
       )
     )
   )
@@ -2691,9 +2604,6 @@
       (project "mainboard"
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec60eb"
           (reference "#SUPPLY08") (unit 1)
-        )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "#SUPPLY?") (unit 1)
         )
       )
     )
@@ -2720,9 +2630,6 @@
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec60eb"
           (reference "#GND029") (unit 1)
         )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "#GND?") (unit 1)
-        )
       )
     )
   )
@@ -2747,9 +2654,6 @@
       (project "mainboard"
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec60eb"
           (reference "#GND026") (unit 1)
-        )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "#GND?") (unit 1)
         )
       )
     )
@@ -2776,9 +2680,6 @@
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec60eb"
           (reference "#GND024") (unit 1)
         )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "#GND?") (unit 1)
-        )
       )
     )
   )
@@ -2803,9 +2704,6 @@
       (project "mainboard"
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec60eb"
           (reference "#SUPPLY07") (unit 1)
-        )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "#SUPPLY?") (unit 1)
         )
       )
     )
@@ -2850,9 +2748,6 @@
       (project "mainboard"
         (path "/e3ac22ea-6806-4807-a025-571315789c25/00000000-0000-0000-0000-00005cec60eb"
           (reference "J18") (unit 1)
-        )
-        (path "/e3ac22ea-6806-4807-a025-571315789c25"
-          (reference "JP?") (unit 1)
         )
       )
     )
