@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SidePanel")(type "KiCad")(uri "${KIPRJMOD}/sidepanelsymbols.kicad_sym")(options "")(descr ""))
+)
