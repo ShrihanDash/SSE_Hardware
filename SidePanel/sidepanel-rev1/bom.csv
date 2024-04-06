@@ -1,0 +1,5 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+D1,D_SMA,1,MBRAF260T3G,
+J1,JST_PH_B2B-PH-SM4-TB_1x02-1MP_P2.00mm_Vertical,1,Conn_01x02_Pin,
+R1,1210,1,DNI,
+"U1, U10, U11, U12, U2, U3, U4, U5, U6, U7, U8, U9",solarBIT,12,~,
